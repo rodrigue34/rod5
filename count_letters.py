@@ -16,4 +16,3 @@ def count_letters(list):
                 # returning letters dictionary
      return letters
 
-print(count_letters("AaBb"))
